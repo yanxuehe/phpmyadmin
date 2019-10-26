@@ -32,6 +32,8 @@ $cfg['Servers'][$i]['host'] = 'mysql';
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
+$cfg['ThemeDefault'] = 'metro';
+
 /**
  * phpMyAdmin configuration storage settings.
  */
